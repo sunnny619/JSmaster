@@ -1,88 +1,35 @@
 {
   "main": {
-    "id": "580b882d9890783d",
+    "id": "116f357445d85dd8",
     "type": "split",
     "children": [
       {
-        "id": "4602fe17cdb425c8",
+        "id": "c2d5ae8d3c528402",
         "type": "tabs",
         "children": [
           {
-            "id": "61195e27318e96d8",
+            "id": "affdb5ff42fc8e92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week1/jinuk/1~5장 간단 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd46abb69df0b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week1/jinuk/6장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebe35db3c141dd8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week1/jinuk/7장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de17162d58afbef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week1/jinuk/8장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19daac0f3b79ca48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week1/jinuk/1~5장 간단 정리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2e3c22248185de4e",
+    "id": "0503494109d38f56",
     "type": "split",
     "children": [
       {
-        "id": "21f245ac4616bcc6",
+        "id": "c124f646c44afa25",
         "type": "tabs",
         "children": [
           {
-            "id": "f55eb0458476b12f",
+            "id": "b41bacd4892452f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,12 +39,12 @@
             }
           },
           {
-            "id": "f2faacf29f95fea2",
+            "id": "4ecb138a63a3af8d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#코드_블록을_만드는_법",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +54,7 @@
             }
           },
           {
-            "id": "65da754c2246f8a1",
+            "id": "b0dde98c66782a72",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,23 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "28ce63063f1adea0",
+    "id": "b249e1ccf5f16c75",
     "type": "split",
     "children": [
       {
-        "id": "6e587235497101a1",
+        "id": "3b7ee873b3a68359",
         "type": "tabs",
         "children": [
           {
-            "id": "f687c75c59471ea3",
+            "id": "73b9fbbd472030e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week1/jinuk/1~5장 간단 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +93,18 @@
             }
           },
           {
-            "id": "69e0a5b07eeec1d6",
+            "id": "7e7d0d867d898b3d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week1/jinuk/1~5장 간단 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bcd0e5647e52dbc9",
+            "id": "763ab69f9b6b36a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,13 +115,11 @@
             }
           },
           {
-            "id": "d4346ac77e989879",
+            "id": "2e26525e736aa30b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "week1/jinuk/1~5장 간단 정리.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,22 +139,33 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f55eb0458476b12f",
+  "active": "affdb5ff42fc8e92",
   "lastOpenFiles": [
-    "week1/img/스크린샷 2024-04-03 오후 11.31.59.png",
-    "week1/jinuk",
+    "함수형 프로그래밍 언어.md",
     "week1/jinuk/9장.md",
-    "week1/img",
-    "week1",
-    "week1/img/스크린샷 2024-04-05 오후 2.40.16.png",
     "week1/jinuk/8장.md",
     "week1/jinuk/7장.md",
     "week1/jinuk/6장.md",
-    "week1/img/스크린샷 2024-04-05 오전 1.59.05.png",
-    "week1/img/스크린샷 2024-04-05 오전 12.21.55.png",
     "week1/jinuk/1~5장 간단 정리.md",
-    "README.md",
-    "함수형 프로그래밍 언어.md",
-    "무제 폴더"
+    "week1/img/스크린샷 2024-04-05 오후 2.40.16.png",
+    "week1/img/스크린샷 2024-04-05 오전 12.21.55.png",
+    "week1/img/스크린샷 2024-04-05 오전 1.59.05.png",
+    "week1/img/스크린샷 2024-04-03 오후 11.31.59.png",
+    "week1/jinuk",
+    "week1/img",
+    "week1",
+    "week 1/seoneui/5. 자료형.md",
+    "week 1/seoneui/4. 변수와 상수.md",
+    "week 1/seoneui/3. 엄격 모드.md",
+    "week 1/seoneui/2. 코드 구조.md",
+    "week 1/seoneui/1. Hello, world!.md",
+    "week 1/img/개발자 도구 console.png",
+    "week 1/img/use strict없이 변수 선언.png",
+    "week 1/img/use strict 있이 변수 선언.png",
+    "week 1/img/Pasted image 20240405142103.png",
+    "week 1/img/5 정답.png",
+    "week 1/seoneui",
+    "week 1/img",
+    "week 1"
   ]
 }
